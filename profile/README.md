@@ -92,4 +92,4 @@
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Major-Woolfi&theme=radical&hide_border=true)
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Major-Woolfi&theme=radical&hide_border=true)
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Major-Woolfi&theme=radical&hide_border=true)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Major-Woolfi&theme=radical&hide_border=true)
+![Top Languages](https://raw.githubusercontent.com/Major-Woolfi/Major-Woolfi/main/stats/languages.svg)
