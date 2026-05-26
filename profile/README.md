@@ -14,6 +14,8 @@
 - 🎓 Окончил 9 класс
 - 📚 Самоучка
 - 💡 Принципы: **KISS** · **DRY** · **SOLID** _(YAGNI почти не использую)_
+- Страна: 🇷🇺 Россия
+- Часовой пояс: UTC+03:00 (МСК)
 
 🌐 [Сайт](https://majorwoolfi.ddns.net) · 📱 [Telegram](https://t.me/Major_Woolfi)
 
