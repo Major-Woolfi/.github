@@ -88,8 +88,8 @@
 
 ### 📊 Статистика
 
-![Streak Stats](https://streak-stats.demolab.com/?user=Major-Woolfi&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Major-Woolfi&theme=radical&hide_border=true)
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Major-Woolfi&theme=radical&hide_border=true)
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Major-Woolfi&theme=radical&hide_border=true)
+
 ![Top Languages](https://raw.githubusercontent.com/Major-Woolfi/.github/main/stats/languages.svg)
+
+![Streak Stats](https://streak-stats.demolab.com/?user=Major-Woolfi&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)
