@@ -16,7 +16,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: stats/languages.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}  # ← Твой токен!
           base: ""
           plugin_languages: yes
           plugin_languages_limit: 8
@@ -24,6 +24,7 @@ jobs:
           plugin_languages_ignored: html,css,markdown
           plugin_languages_details: bytes-size,percentage
           plugin_languages_threshold: 0.1%
+          plugin_languages_sources: true  # ← Искать во всех репо
       
       - name: Commit & Push if file exists
         run: |
@@ -34,6 +35,6 @@ jobs:
             git commit -m "chore: update language stats" || exit 0
             git push
           else
-            echo "File stats/languages.svg not found, skipping commit"
+            echo "File not found"
             exit 0
           fi
