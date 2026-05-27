@@ -55,7 +55,7 @@
 
 ### 🛠 DevOps & Инфраструктура
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![aaPanel](https://img.shields.io/badge/aaPanel-FF6600?style=flat)
+![aaPanel](https://img.shields.io/badge/aaPanel-28C15F?style=flat)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-CA1200?style=flat&logo=apache&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
@@ -70,13 +70,13 @@
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
-![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat&logo=webstorm&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-E83A30?style=flat&logo=intellijidea&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-087CFA?style=flat&logo=webstorm&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-004D40?style=flat&logo=pycharm&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
 
 ### 💽 Форматы данных
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-F7DF1E?style=flat&logo=json&logoColor=black)
 ![XML](https://img.shields.io/badge/XML-005FAD?style=flat&logo=xml&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 
