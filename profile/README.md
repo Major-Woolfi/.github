@@ -78,7 +78,15 @@
 ### 💽 Форматы данных
 ![JSON](https://img.shields.io/badge/JSON-F7DF1E?style=flat&logo=json&logoColor=black)
 ![XML](https://img.shields.io/badge/XML-005FAD?style=flat&logo=xml&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+
+### 🤖 ИИ-инструменты и агенты
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-24292E?style=flat&logo=githubcopilot&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-10A37F?style=flat&logo=openai&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen-FF6A00?style=flat&logo=alibabacloud&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white)
 
 ---
 
