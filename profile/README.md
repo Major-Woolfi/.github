@@ -13,11 +13,12 @@
 - 💻 В сфере IT — более 3 лет
 - 🎓 Окончил 9 класс
 - 📚 Самоучка
+- 😋 124 IQ (по матрицам Равена)
 - 💡 Принципы: **KISS** · **DRY** · **SOLID** _(YAGNI почти не использую)_
 - Страна: 🇷🇺 Россия
 - Часовой пояс: UTC+03:00 (МСК)
 
-🌐 [Сайт](https://majorwoolfi.ddns.net) · 📱 [Telegram](https://t.me/Major_Woolfi)
+🌐 [Сайт](https://majorwoolfi.duckdns.org) · 📱 [Telegram](https://t.me/Major_Woolfi)
 
 ---
 
@@ -83,6 +84,7 @@
 
 ### 🤖 ИИ-инструменты и агенты
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-24292E?style=flat&logo=githubcopilot&logoColor=white)
+![Kodacode](https://img.shields.io/badge/Kodacode-?style=flat&logo=kodacode&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-10A37F?style=flat&logo=openai&logoColor=white)
 ![Qwen](https://img.shields.io/badge/Qwen-FF6A00?style=flat&logo=alibabacloud&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
@@ -92,7 +94,11 @@
 
 ### 🗺 Языки
 
-🇷🇺 Русский (родной) &nbsp;&nbsp;|&nbsp;&nbsp; 🇺🇸 Английский
+🇷🇺 Русский (родной) | 🇺🇸 Английский
+
+#### Изучаю
+
+🇯🇵 Японский
 
 ---
 
