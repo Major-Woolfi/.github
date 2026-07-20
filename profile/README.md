@@ -88,7 +88,6 @@
 
 [![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)](https://www.json.org/)
 [![XML](https://img.shields.io/badge/XML-005FAD?style=flat&logo=xml&logoColor=white)](https://www.w3.org/XML/)
-[![YML](https://img.shields.io/badge/YML-CB171E?style=flat&logo=yml&logoColor=white)](https://yaml.org/)
 [![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoColor=white)](https://yaml.org/)
 [![Toml](https://img.shields.io/badge/Toml-9C2C2C?style=flat&logo=toml&logoColor=white)](https://toml.io/)
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
