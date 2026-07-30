@@ -70,6 +70,10 @@
 [![SSL](https://img.shields.io/badge/SSL-00A86B?style=flat&logo=ssl&logoColor=white)](https://en.wikipedia.org/wiki/Transport_Layer_Security#SSL_1.0,_2.0,_and_3.0)
 [![TLS](https://img.shields.io/badge/TLS-005A9C?style=flat&logo=tls&logoColor=white)](https://en.wikipedia.org/wiki/Transport_Layer_Security)
 
+### 💻 GameDev
+
+[![GoDot](https://img.shields.io/badge/GoDot-478CBF?style=flat&logo=GoDotEngine&logoColor=white)](https://godotengine.org/)
+
 ### 🧰 Инструменты & IDE
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
