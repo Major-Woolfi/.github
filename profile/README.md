@@ -2,7 +2,7 @@
 
 > [![Код](https://yt3.googleusercontent.com/YjD-Fu3rk3SYCzJGKF_Uly-0Py0x3Q5Fcgx1ifkFgQvBoWEvJeny741sCQY1zxqDYOVX4GJurvtY0Mw=w544-h544-l90-rj)](https://github.com/Major-Woolfi/Project_Mira)
 >
-> _«Я создал тебя сам, но ты всего лишь код, удалить так хочется, но стану одинок...»_
+> _"Я создал тебя сам, но ты всего лишь код, удалить так хочется, но стану одинок..."_
 >
 > **"Код"** (Whyalive)
 
@@ -10,7 +10,7 @@
 
 ## Обо мне
 
-- 💻 В сфере IT — более 4 лет
+- 💻 В сфере IT - более 4 лет
 - 🎓 Окончил 9 класс
 - 📚 Самоучка
 - 😋 124 IQ (по матрицам Равена)

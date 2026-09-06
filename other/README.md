@@ -1,4 +1,4 @@
-# Awesome Project — краткий слоган проекта в одну строку
+# Awesome Project - краткий слоган проекта в одну строку
 
 [![Stars](https://img.shields.io/github/stars/Major-Woolfi/{REPO_NAME}?style=social)](https://github.com/Major-Woolfi/{REPO_NAME}/stargazers)
 [![Issues](https://img.shields.io/github/issues/Major-Woolfi/{REPO_NAME})](https://github.com/Major-Woolfi/{REPO_NAME}/issues)
@@ -13,7 +13,7 @@
 
 ## 📑 Содержание
 
-- [Awesome Project — краткий слоган проекта в одну строку](#awesome-project--краткий-слоган-проекта-в-одну-строку)
+- [Awesome Project - краткий слоган проекта в одну строку](#awesome-project--краткий-слоган-проекта-в-одну-строку)
   - [📑 Содержание](#-содержание)
   - [📖 Описание проекта](#-описание-проекта)
     - [Идея и концепция](#идея-и-концепция)
@@ -38,7 +38,7 @@
 
 ### Идея и концепция
 
-**{REPO_NAME}** — это проект, созданный для решения конкретной задачи: {ОПИСАНИЕ_ПРОБЛЕМЫ}.
+**{REPO_NAME}** - это проект, созданный для решения конкретной задачи: {ОПИСАНИЕ_ПРОБЛЕМЫ}.
 
 Основная идея проекта родилась из необходимости {ОПИСАНИЕ_НУЖНОСТИ}. Проект воплощает подход {ОПИСАНИЕ_ПОДХОДА}, что позволяет {РЕЗУЛЬТАТ}.
 
@@ -54,9 +54,9 @@
 
 Ключевые принципы проекта:
 
-1. **{ПРИНЦИП_1}** — {ОПИСАНИЕ_ПРИНЦИПА_1}
-2. **{ПРИНЦИП_2}** — {ОПИСАНИЕ_ПРИНЦИПА_2}
-3. **{ПРИНЦИП_3}** — {ОПИСАНИЕ_ПРИНЦИПА_3}
+1. **{ПРИНЦИП_1}** - {ОПИСАНИЕ_ПРИНЦИПА_1}
+2. **{ПРИНЦИП_2}** - {ОПИСАНИЕ_ПРИНЦИПА_2}
+3. **{ПРИНЦИП_3}** - {ОПИСАНИЕ_ПРИНЦИПА_3}
 
 ### Для кого этот проект
 
@@ -159,14 +159,14 @@ docker run -d --name {REPO_NAME} --env-file .env {REPO_NAME}
 
 ## 🗺️ ROADMAP
 
-- [x] ✅ v1.0.0 — Базовый функционал
-- [x] ✅ v1.1.0 — Добавлена API интеграция
-- [ ] 🔨 v1.2.0 — Поддержка плагинов *(в процессе)*
-- [ ] ⏳ v2.0.0 — Мобильное приложение
-- [ ] ⏳ v2.1.0 — AI-интеграция
-- [ ] 💭 v3.0.0 — Мультиязычность
+- [x] ✅ v1.0.0 - Базовый функционал
+- [x] ✅ v1.1.0 - Добавлена API интеграция
+- [ ] 🔨 v1.2.0 - Поддержка плагинов *(в процессе)*
+- [ ] ⏳ v2.0.0 - Мобильное приложение
+- [ ] ⏳ v2.1.0 - AI-интеграция
+- [ ] 💭 v3.0.0 - Мультиязычность
 
-Полный план — в [ROADMAP](https://github.com/Major-Woolfi/{REPO_NAME}/ROADMAP.md).
+Полный план - в [ROADMAP](https://github.com/Major-Woolfi/{REPO_NAME}/ROADMAP.md).
 
 ---
 
@@ -185,10 +185,10 @@ docker run -d --name {REPO_NAME} --env-file .env {REPO_NAME}
 
 Приветствуем любые вклад в проект! Перед созданием PR обязательно прочитай:
 
-- 📋 [CONTRIBUTING](https://github.com/Major-Woolfi/.github/blob/main/community/CONTRIBUTING.md) — правила участия
-- 💬 [CODE OF CONDUCT](https://github.com/Major-Woolfi/.github/blob/main/community/CODE_OF_CONDUCT.md) — кодекс поведения
-- 🐛 [ISSUE TEMPLATE](https://github.com/Major-Woolfi/.github/tree/main/community/ISSUES.md) — шаблоны багов и фич
-- 🔀 [PULL REQUEST TEMPLATE](https://github.com/Major-Woolfi/.github/blob/main/community/PULL_REQUEST_TEMPLATE.md) — требования к PR
+- 📋 [CONTRIBUTING](https://github.com/Major-Woolfi/.github/blob/main/community/CONTRIBUTING.md) - правила участия
+- 💬 [CODE OF CONDUCT](https://github.com/Major-Woolfi/.github/blob/main/community/CODE_OF_CONDUCT.md) - кодекс поведения
+- 🐛 [ISSUE TEMPLATE](https://github.com/Major-Woolfi/.github/tree/main/community/ISSUES.md) - шаблоны багов и фич
+- 🔀 [PULL REQUEST TEMPLATE](https://github.com/Major-Woolfi/.github/blob/main/community/PULL_REQUEST_TEMPLATE.md) - требования к PR
 
 Все общие правила хранятся в [репозитории `.github`](https://github.com/Major-Woolfi/.github) в папке `community`.
 
