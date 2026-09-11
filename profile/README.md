@@ -98,6 +98,7 @@
 
 ### 🤖 ИИ-инструменты и агенты
 
+[![KiloCode](https://img.shields.io/badge/KiloCode-FFFFFF?style=flat&logo=kilocode&logoColor=white)](https://kilo.ai/)
 [![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-24292E?style=flat&logo=githubcopilot&logoColor=white)](https://github.com/features/copilot)
 [![KodaCode](https://img.shields.io/badge/KodaCode-FF6B9D?style=flat&logo=kodacode&logoColor=white)](https://kodacode.ru/)
 [![Codex](https://img.shields.io/badge/Codex-10A37F?style=flat&logo=codex&logoColor=white)](https://openai.com/blog/openai-codex)
