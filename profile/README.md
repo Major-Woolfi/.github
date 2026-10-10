@@ -98,11 +98,11 @@
 
 ### 🤖 ИИ-инструменты и агенты
 
+[![OpenCode](https://img.shields.io/badge/OpenCode-4285F4?style=flat&logo=opencode&logoColor=white)](https://opencode.us/)
 [![KiloCode](https://img.shields.io/badge/KiloCode-FFFFFF?style=flat&logo=kilocode&logoColor=white)](https://kilo.ai/)
+[![Codex](https://img.shields.io/badge/Codex-10A37F?style=flat&logo=codex&logoColor=white)](https://openai.com/blog/openai-codex)
 [![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-24292E?style=flat&logo=githubcopilot&logoColor=white)](https://github.com/features/copilot)
 [![KodaCode](https://img.shields.io/badge/KodaCode-FF6B9D?style=flat&logo=kodacode&logoColor=white)](https://kodacode.ru/)
-[![Codex](https://img.shields.io/badge/Codex-10A37F?style=flat&logo=codex&logoColor=white)](https://openai.com/blog/openai-codex)
-[![OpenCode](https://img.shields.io/badge/OpenCode-4285F4?style=flat&logo=opencode&logoColor=white)](https://opencode.us/)
 [![Qwen](https://img.shields.io/badge/Qwen-FF6A00?style=flat&logo=alibabacloud&logoColor=white)](https://qwenlm.ai/)
 [![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)](https://claude.ai/)
 [![DeepSeek](https://img.shields.io/badge/DeepSeek-1E90FF?style=flat&logo=deepseek&logoColor=white)](https://deepseek.com/)
